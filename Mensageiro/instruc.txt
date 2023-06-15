@@ -1,0 +1,5 @@
+Messageria RabbitMQ
+
+localhost:15672
+login: admin
+senha: 1234567
