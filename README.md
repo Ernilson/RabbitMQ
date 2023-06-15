@@ -23,7 +23,7 @@ simples interação entre micro serviços.
 - docker-compose up
 
 ## Acesso a api ao brocken
-- http://localhost:9090/
+- http://localhost:8080/
 - http://localhost:15672
 
 ## Diagrama do Projeto
